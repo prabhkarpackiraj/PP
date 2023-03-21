@@ -1,1 +1,1 @@
-![Balance Scorecard](/BS.png)
+![Balance Scorecard](/docs/assets/BS.png)
